@@ -1,0 +1,22 @@
+{
+  "name": "practice-clothing-list",
+  "version": "1.0.0",
+  "description": "practicing example of movielist workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongb909/clothing-list.git"
+  },
+  "author": "Rachel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongb909/clothing-list/issues"
+  },
+  "homepage": "https://github.com/dongb909/clothing-list#readme",
+  "dependencies": {
+    "react": "^16.10.1"
+  }
+}
